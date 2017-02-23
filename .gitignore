@@ -49,3 +49,5 @@ target/
 /build/
 lumo-cache/
 .vagrant
+website/dist
+website/src/docs
